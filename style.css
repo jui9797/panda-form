@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+body{
+    font-family: "Playwrite IT Moderna", cursive;
+    font-optical-sizing: auto;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
